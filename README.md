@@ -1,8 +1,6 @@
 # ToDo Console & WPF App
 
-Project was originally developed in another repo.
-
-This .NET solution contains three projects:
-- ClassLibrary -- universal methods and model
-- ToDoApp -- console runner
-- ToDoWpfApp -- GUI in WPF using MVVM pattern (with bended rules)
+.NET solution in this repository contains three projects:
+- ClassLibrary -- universal methods and models for both console and WPF app.
+- ToDoApp -- console to-do application.
+- ToDoWpfApp -- WPF to-do application using MVVM pattern.
